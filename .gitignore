@@ -1,0 +1,23 @@
+*.wav
+*.csv
+*.pdf
+*.png
+\data_txts
+\results
+*.idea
+__pycache__/
+
+# Test files of any kind
+# Defaults to ignoring all files of that type
+# until a specific file gets an exception.
+test_*.py
+
+# _simple files contain simplified versions of already
+# well integrated code. Used for quick checks and tests.
+*_simple.py
+
+# Try files contain methods and code that is
+# exploratory and not always directly related.
+try_*.py
+
+# Individual files

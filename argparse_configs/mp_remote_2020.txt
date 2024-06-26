@@ -1,0 +1,2 @@
+remote_mode
+%List your specific paths in correct order%
